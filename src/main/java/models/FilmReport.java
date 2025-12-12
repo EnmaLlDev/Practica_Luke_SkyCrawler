@@ -6,9 +6,6 @@ public class FilmReport {
     private static final String NUMERO_TOTAL_DE_ESPECIES = "" ;
     private static final String NUMERO_TOTAL_DE_PERSONAJES = "" ;
 
-
-
-
     // .....
 
     // Métodos

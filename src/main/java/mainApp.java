@@ -5,7 +5,7 @@ public class mainApp {
         public static void main(String[] args) {
             SWCrawler swcrawler = new SWCrawler();
 
-            swcrawler.crawlFilm(1)
+            swcrawler.crawlFilm(2)
                     .thenAccept(FilmReport::print)
                     .join();
 
